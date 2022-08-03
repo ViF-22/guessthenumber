@@ -124,7 +124,7 @@ h1 {
     padding-top: 6rem;
   }
   header h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
   .left {
     width: 100%;
@@ -139,10 +139,14 @@ h1 {
   .btn {
     font-size: 1.5rem;
     padding: 1.5rem 2rem;
+    font-size: 1.7rem;
   }
   .between {
     font-size: 1.2rem;
-    width: 45%;
+    width: 40%;
     text-align: center;
+  }
+   .message {
+    margin-bottom: 5rem;
   }
 }
