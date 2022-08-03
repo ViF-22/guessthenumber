@@ -140,4 +140,9 @@ h1 {
     font-size: 1.5rem;
     padding: 1.5rem 2rem;
   }
+  .between {
+    font-size: 1.2rem;
+    width: 45%;
+    text-align: center;
+  }
 }
